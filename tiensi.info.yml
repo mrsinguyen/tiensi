@@ -1,0 +1,14 @@
+name: Tien Si
+type: theme
+description: nguyentiensi.com on drupal 8
+core: 8.x
+
+stylesheets:
+  all:
+    - css/style.css
+
+regions:
+  header: Header
+  messages: Messages
+  content: Content
+  footer: Footer
